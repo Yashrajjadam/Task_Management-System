@@ -40,7 +40,7 @@ Welcome to Task Management, a cutting-edge application that integrates MongoDB a
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/Aryan741x/WorkSpace.git
+git clone https://github.com/Yashrajjadam/Task_Management-System.git
 cd Task Management
 ```
 
@@ -70,19 +70,14 @@ node server.js
 ```bash
 npm run dev
 ```
+## Docker
+This project can be run using Docker to simplify setup and ensure all required services work together smoothly.
 
-## Policy Repo
-- https://github.com/Aryan741x/opal-example-policy-repo
+First, make sure Docker and Node.js are installed on your system. Docker is used to manage and run supporting services such as policy components in a consistent environment.
 
-## Demo Video how to run project
+Docker is used in this project to manage and run required services in an isolated environment. It helps avoid configuration issues and ensures smooth integration between different components of the application.
 
-[![Watch the video](https://img.youtube.com/vi/uHIlTTT5g5M/maxresdefault.jpg)](https://www.youtube.com/watch?v=uHIlTTT5g5M)
 
 ## Acknowledgments
 
-- Special Thanks to SSOC: Grateful for providing a platform to delve deeper into Opal, an incredible open-source software.
-- Gratitude to the Permit.io/Opal developers for resources and support. Thank you also for providing the chance to take part in Quine Quest 13.
-
----
-
-Feel free to dive into the project, explore the code. Happy coding!
+This project was developed as a personal learning initiative to improve my technical skills and understanding of real-world applications. I used online documentation, tutorials, and open-source resources to complete this project. This work helped me gain hands-on experience and practical knowledge.
